@@ -1,0 +1,19 @@
+html {
+    border-top: none;
+}
+
+body {
+    font-family: helvetica;
+}
+
+body .h1 {
+    display: unset;
+}
+
+#header, #about > p {
+    margin: unset;
+}
+
+.content a.icon:hover {
+    color: unset;
+}
